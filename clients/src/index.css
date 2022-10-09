@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family:  "Times New Roman" !important;
+}
+a{
+  text-decoration:none !important;
+  color:hotpink ;
+  font-weight: bold !important;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+.notAllow{
+  cursor: no-drop !important;
+}
+
+.css-10hburv-MuiTypography-root{
+  font-weight: bold !important;
+}

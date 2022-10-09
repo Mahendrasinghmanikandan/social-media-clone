@@ -1,0 +1,25 @@
+.side-navbar {
+  width: 10vw !important;
+}
+.top-navbar {
+  width: 100vw !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+  font-weight: bold !important;
+}
+.side-navbar {
+  background: linear-gradient(to top, white, transparent);
+}
+
+.sidenav-btn {
+  height: 100px;
+}
+.sidenav-btn:hover {
+  background: linear-gradient(to right, hotpink, transparent);
+}
+
+
+.sidebar-icon {
+  color: hotpink;
+}
